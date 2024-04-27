@@ -54,22 +54,7 @@ permalink: /teaching
 </details>
 
 <!-- --------------------------------------------------- -->
-
-### UC Santa Cruz
 <!-- bfe3ff -->
-<details>
-    <summary><b style="color:#d78a86">Teaching Assistant</b></summary>
-
-<ul style="line-height:180%">
-
-<li> MATH 21 <b>Linear Algebra</b>, <small>Spring 2022</small></li>
-
-<li> MATH 21 <b>Linear Algebra</b>, <small>Winter 2022</small></li>
-
-<li> MATH 11B </b>Mathematical Methods for Economists II</b>, <small>Fall 2021</small></li>
-
-</ul>
-</details>
 
 <!--
 <details>
