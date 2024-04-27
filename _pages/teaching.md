@@ -29,29 +29,10 @@ permalink: /teaching
 </li>-->
 
 </ul>
-<!--</details>-->
+</details>
 
 <!-- --------------------------------------------------- -->
 
-<details>
-    <summary><b style="color:#d78a86">Teaching Assistant</b></summary>
-
-<ul style="line-height:180%">
-
-<li> MTH 343 <b>Modern Algebra</b>, <small>Winter 2024</small></li>
-
-<li> MTH 103 <b>Algebriac Reasoning</b>, <small>Winter 2024</small></li>
-
-<li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2023</small></li>
-
-<li> MATH 341 <b>Linear Algebra I</b>, <small>Spring 2023</small></li>
-
-<li> MTH 252 <b>Integral Calculus</b>, <small>Winter 2022</small></li>
-
-<li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2022</small></li>
-
-</ul>
-<!--</details>-->
 
 <!-- --------------------------------------------------- -->
 <!-- bfe3ff -->
@@ -68,8 +49,8 @@ permalink: /teaching
 
 <li> MATH 11B </b>Mathematical Methods for Economists II</b>, <small>Fall 2021</small></li>
 
-<!--</ul>
-</details>-->
+</ul>
+</details>
 
 <!--
 <details>
