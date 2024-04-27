@@ -28,8 +28,8 @@ permalink: /teaching
 <a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
 </li>-->
 
-<!--</ul>
-</details>-->
+</ul>
+<!--</details>-->
 
 <!-- --------------------------------------------------- -->
 
@@ -50,8 +50,8 @@ permalink: /teaching
 
 <li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2022</small></li>
 
-<!--</ul>
-</details>-->
+</ul>
+<!--</details>-->
 
 <!-- --------------------------------------------------- -->
 <!-- bfe3ff -->
