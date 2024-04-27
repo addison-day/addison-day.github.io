@@ -14,7 +14,7 @@ permalink: /teaching
 <p>I am teaching the Ecampus course MTH 065: Elementary Algebra </p>
 </div>
 
-<!-- ### UC Santa Cruz -->
+### Oregon State University
 
 <details>
     <summary><b style="color:#ffffbf">Instructor of Record</b></summary>
@@ -38,25 +38,15 @@ permalink: /teaching
 
 <ul style="line-height:180%">
 
-<li> MATH 11A <b>Calculus with Applications</b>, <small>Fall 2023</small></li>
+<li> MTH 343: Modern Algebra <b>Calculus with Applications</b>, <small>Winter 2024</small></li>
 
-<li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023</small></li>
+<li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2023</small></li>
 
-<li> MATH 288B <b>Pedagogy of Mathematics (for GSIs)</b>, <small>Winter 2023</small></li>
+<li> MATH 341 <b>Linear Algebra I</b>, <small>Spring 2023</small></li>
 
-<li> MATH 19A <b>Calculus for Sci., Eng., and Math.</b>, <small>Fall 2022</small></li>
+<li> MTH 252 <b>Integral Calculus</b>, <small>Winter 2022</small></li>
 
-<li> MATH 11A <b>Calculus with Applications</b>, <small>Winter 2022</small></li>
-
-<li> MATH 111T <b>Algebra</b>, <small>Spring 2021</small></li>
-
-<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2021</small></li>
-
-<li> MATH 3 <b>Precalculus</b>, <small>Spring 2020</small></li>
-
-<li> MATH 181 <b>History of Mathematics</b>, <small>Winter 2020</small></li>
-
-<li> MATH 3 <b>Precalculus</b>, <small>Fall 2019</small></li>
+<li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2022</small></li>
 
 </ul>
 </details>
