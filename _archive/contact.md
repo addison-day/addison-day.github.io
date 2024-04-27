@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: "Email is the best way to get in touch."
+description: "Contact me via email:"
 permalink: /contact
 --- 
 
