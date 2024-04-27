@@ -28,8 +28,8 @@ permalink: /teaching
 <a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
 </li>-->
 
-</ul>
-</details>
+<!--</ul>
+</details>-->
 
 <!-- --------------------------------------------------- -->
 
@@ -50,11 +50,26 @@ permalink: /teaching
 
 <li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2022</small></li>
 
-</ul>
-</details>
+<!--</ul>
+</details>-->
 
 <!-- --------------------------------------------------- -->
 <!-- bfe3ff -->
+### UC Santa Cruz
+
+<details>
+    <summary><b style="color:#d78a86">Teaching Assistant</b></summary>
+
+<ul style="line-height:180%">
+
+<li> MATH 21 <b>Linear Algebra</b>, <small>Spring 2022</small></li>
+
+<li> MATH 21 <b>Linear Algebra</b>, <small>Winter 2022</small></li>
+
+<li> MATH 11B </b>Mathematical Methods for Economists II</b>, <small>Fall 2021</small></li>
+
+<!--</ul>
+</details>-->
 
 <!--
 <details>
