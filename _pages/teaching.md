@@ -11,7 +11,7 @@ permalink: /teaching
 
 <div class="callout">
     <h2> Spring 2024 </h2>
-<p>I am a Graduate Teaching Fellow, developing course material for MATH 11B: Calculus with Applications</p>
+<p>I am teaching the Ecampus course MTH 065: Elementary Algebra </p>
 </div>
 
 <!-- ### UC Santa Cruz -->
@@ -21,33 +21,12 @@ permalink: /teaching
 
 <ul style="line-height:150%">
 
-<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2024</small></li>
+<li> MTH 065 <b>Elementary Algebra</b>, <small>Spring 2024</small></li>
 
-<li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023</small><br>
+<li> MTH 112Z <b>Precalculus II: Trigonometry</b>, <small>Summer 2023</small><li>
+  <!--  lecture notes link <br>
 <a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
-</li>
-
-<li> MATH 103A <b>Complex Analysis</b>, <small>Spring 2023</small><br>
-<a href="https://drive.google.com/file/d/1tu_HkQRio1RMExTzfMlsHvJLZF5R8cXM/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
-</li>
-
-<li> MATH 11B <b>Calculus with Applications</b>, <small>Summer 2022</small></li>
-
-<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Summer 2022</small><br>
-<a href="https://drive.google.com/file/d/1wO8R17nlPOVqxrAENGtnsi0TLw29PFt7/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
-</li>
-
-<li> MATH 103A <b>Complex Analysis</b>, <small>Spring 2022</small></li>
-
-<li> MATH 110 <b>Introduction to Number Theory</b>, <small>Fall 2021</small><br>
-<a href="https://drive.google.com/file/d/17i_EQ1ncWpEZj6n9H1-J6MEkOrg8rHbt/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
-</li>
-
-<li> MATH 110 <b>Introduction to Number Theory</b>, <small>Summer 2021</small></li>
-
-<li> MATH 105A <b>Real Analysis</b>, <small>Fall 2020</small></li>
-
-<li> MATH 3 <b>Precalculus</b>, <small>Summer 2020</small></li>
+</li>-->
 
 </ul>
 </details>
@@ -84,18 +63,21 @@ permalink: /teaching
 
 <!-- --------------------------------------------------- -->
 
-### Shiv Nadar University
+### UC Santa Cruz
 <!-- bfe3ff -->
 <details>
     <summary><b style="color:#d78a86">Teaching Assistant</b></summary>
 
 <ul style="line-height:180%">
 
-<li> MAT260 <b>Linear Algebra</b>, <small>Fall 2015</small></li>
+<li> MATH 21: Linear Algebra <b>Linear Algebra</b>, <small>Spring 2022</small></li>
+<li> MATH 21: Linear Algebra <b>Linear Algebra</b>, <small>Winter 2022</small></li>
+<li> MATH 11B: Mathematical Methods for Economists II</b>, <small>Fall 2021</small></li>
 
 </ul>
 </details>
 
+<!--
 <details>
     <summary><b style="color:#ffb3ff">Tutor</b></summary>
 
@@ -108,6 +90,6 @@ Learning & Academic Support Centre
 <li> MAT101 <b>Calculus I</b>, <small>Fall 2014</small></li>
 
 </ul>
-</details>
+</details>-->
 
 <!-- #e894b5 -->
