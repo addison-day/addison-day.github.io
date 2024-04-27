@@ -6,7 +6,7 @@ permalink: /contact
 
 
 
-Email’s the best way to get in touch: 
+Contact me via email: 
 
 **{{ site.email }}**
 
