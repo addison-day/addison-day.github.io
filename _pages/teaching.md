@@ -9,11 +9,6 @@ custom-nav:
 permalink: /teaching
 ---
 
-<div class="callout">
-    <h2> Spring 2024 </h2>
-<p>I am teaching the Ecampus course MTH 065: Elementary Algebra </p>
-</div>
-
 ### Oregon State University
 
 <details>
@@ -27,6 +22,27 @@ permalink: /teaching
   <!--  lecture notes link <br>
 <a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
 </li>-->
+
+</ul>
+</details>
+
+
+<details>
+    <summary><b style="color:#d78a86">Teaching Assistant</b></summary>
+
+<ul style="line-height:180%">
+
+<li> MTH 343 <b>Modern Algebra</b>, <small>Winter 2024</small></li>
+
+<li> MTH 103 <b>Algebriac Reasoning</b>, <small>Winter 2024</small></li>
+
+<li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2023</small></li>
+
+<li> MATH 341 <b>Linear Algebra I</b>, <small>Spring 2023</small></li>
+
+<li> MTH 252 <b>Integral Calculus</b>, <small>Winter 2022</small></li>
+
+<li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2022</small></li>
 
 </ul>
 </details>
