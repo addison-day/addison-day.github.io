@@ -10,9 +10,11 @@ index: true
 Hello! I'm a 3rd year PhD student in mathematics at [Oregon State University](https://math.oregonstate.edu). My advisor is [Jonathan Kujawa](https://math.oregonstate.edu/directory/jonathan-kujawa).
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 
+<!--
 <div class="tag-list copy-buttons">
 <a class="btn btn-default" href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Bhamidipati CV</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-default" href="https://drive.google.com/file/d/1GouDYn-Efseih_NrD5z3LmwOvmtSlqt_/view?usp=sharing">CV (Dark Mode)</a>
-</div>
+</div>-->
+
 <!-- Here is my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a> -->
 
