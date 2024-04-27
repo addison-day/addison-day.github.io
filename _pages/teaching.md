@@ -38,7 +38,9 @@ permalink: /teaching
 
 <ul style="line-height:180%">
 
-<li> MTH 343: Modern Algebra <b>Calculus with Applications</b>, <small>Winter 2024</small></li>
+<li> MTH 343 <b>Modern Algebra</b>, <small>Winter 2024</small></li>
+
+<li> MTH 103 <b>Algebriac Reasoning</b>, <small>Winter 2024</small></li>
 
 <li> MTH 254 <b>Vector Calculus I</b>, <small>Fall 2023</small></li>
 
@@ -60,9 +62,9 @@ permalink: /teaching
 
 <ul style="line-height:180%">
 
-<li> MATH 21: Linear Algebra <b>Linear Algebra</b>, <small>Spring 2022</small></li>
-<li> MATH 21: Linear Algebra <b>Linear Algebra</b>, <small>Winter 2022</small></li>
-<li> MATH 11B: Mathematical Methods for Economists II</b>, <small>Fall 2021</small></li>
+<li> MATH 21 <b>Linear Algebra</b>, <small>Spring 2022</small></li>
+<li> MATH 21 <b>Linear Algebra</b>, <small>Winter 2022</small></li>
+<li> MATH 11B</b>Mathematical Methods for Economists II</b>, <small>Fall 2021</small></li>
 
 </ul>
 </details>
