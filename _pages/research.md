@@ -10,7 +10,6 @@ permalink: /research
 ---
 
 Stay tuned!
-
 <!--
 <div class="callout">
     <h2> Spring 2024 Travel </h2>
