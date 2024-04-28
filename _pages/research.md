@@ -10,6 +10,7 @@ permalink: /research
 ---
 
 Stay tuned!
+
 <!--
 <div class="callout">
     <h2> Spring 2024 Travel </h2>
@@ -39,14 +40,14 @@ I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a
 <!-- </ul> -->
 
 <!-- --------------------------------------------------- -->
-<!--<h3 style="color:#c783c4">In Preparation</h3>
+<!-- <h3 style="color:#c783c4">In Preparation</h3>
 <ul style="line-height:180%">
 
 <li> Ekedahl-Oort strata and the supersingular locus in the \(\mathsf{GU}(q-2,2)\) Shimura variety <small><em>(with Emerald Anne, Maria Fox, Heidi Goodson, Steven Groen, and Sandra Nair)</em></small></li> -->
 
 <!-- <li> A \(p\)-adic analytic Brauer Group <small><em>(with Martin Weissman)</em></small></li> -->
 
-<!-- </ul> -->
+<!-- </ul> 
 
 <!-- --------------------------------------------------- -->
 
@@ -58,6 +59,6 @@ I am giving a talk at <a href="https://www.ustars.org/"><b>USTARS in Iowa</b></a
 
 <!-- --------------------------------------------------- -->
 
-<!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
+<!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 
 <!-- c885b9 --> 
