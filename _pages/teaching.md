@@ -18,7 +18,7 @@ permalink: /teaching
 
 <li> MTH 065 <b>Elementary Algebra</b>, <small>Spring 2024</small></li>
 
-<li> MTH 112Z <b>Precalculus II: Trigonometry</b>, <small>Summer 2023</small><li>
+<li> MTH 112Z <b>Precalculus II: Trigonometry</b>, <small>Summer 2023</small></li>
   
 </ul>
 </details>
@@ -60,7 +60,7 @@ permalink: /teaching
 
 <li> MATH 21 <b>Linear Algebra</b>, <small>Winter 2022</small></li>
 
-<li> MATH 11B </b>Mathematical Methods for Economists II</b>, <small>Fall 2021</small></li>
+<li> MATH 11B <b>Mathematical Methods for Economists II</b>, <small>Fall 2021</small></li>
 
 </ul>
 </details>
