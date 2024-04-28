@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Activities
 description: "Service and organising activities"
 nav: custom
