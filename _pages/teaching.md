@@ -19,9 +19,7 @@ permalink: /teaching
 <li> MTH 065 <b>Elementary Algebra</b>, <small>Spring 2024</small></li>
 
 <li> MTH 112Z <b>Precalculus II: Trigonometry</b>, <small>Summer 2023</small><li>
-  <!--  lecture notes link <br>
-<a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
-</li> -->
+  
 </ul>
 </details>
 
@@ -83,3 +81,6 @@ Learning & Academic Support Centre
 </details>-->
 
 <!-- #e894b5 -->
+<!--  lecture notes link <br>
+<a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
+</li> -->
