@@ -8,14 +8,14 @@ custom-nav:
     <a href="/activities" title="Activities">Activities</a>
 permalink: /activities
 ---
-
+<!--
 <div class="callout">
     <h2> Spring 2024 </h2>
 I am co-organising a reading group on Tropical Geometry, a learning seminar on Category Theory, and the <a href="https://sites.google.com/ucsc.edu/drp-math/">Directed Reading Program</a> and the Experiences in Math seminar series, and I am continuing as a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/">Graduate Pedagogy Fellow</a> and a Foundations Scholar with <a href="https://sites.google.com/ucsc.edu/edgedsprogram/">edge-DS</a>.
 </div>
 
 <!-- ### UC Santa Cruz -->
-
+<!--
 <details>
     <summary><b style="color:#addfad">Service</b></summary>
 
@@ -57,7 +57,7 @@ I am co-organising a reading group on Tropical Geometry, a learning seminar on C
 </details>
 
 <!-- --------------------------------------------------- -->
-
+<!--
 <details>
     <summary><b style="color:#addfad">Pedagogy Related</b></summary>
 
@@ -85,7 +85,7 @@ Teaching</b></a><br>
 </details>
 
 <!-- --------------------------------------------------- -->
-
+<!--
 <details>
     <summary><b style="color:#addfad">Mentorship</b></summary>
 
@@ -141,7 +141,7 @@ Teaching</b></a><br>
 </details>
 
 <!-- --------------------------------------------------- -->
-
+<!--
 <details>
     <summary><b style="color:#addfad">Colloquiua and Seminars</b></summary>
 
@@ -163,7 +163,7 @@ Teaching</b></a><br>
 </details>
 
 <!-- --------------------------------------------------- -->
-
+<!--
 <details>
     <summary><b style="color:#addfad">Reading Groups</b></summary>
 
@@ -199,7 +199,7 @@ Teaching</b></a><br>
 </details>
 
 <!-- --------------------------------------------------- -->
-
+<!--
 ### External
 
 <details>
