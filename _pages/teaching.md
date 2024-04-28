@@ -21,8 +21,7 @@ permalink: /teaching
 <li> MTH 112Z <b>Precalculus II: Trigonometry</b>, <small>Summer 2023</small><li>
   <!--  lecture notes link <br>
 <a href="https://drive.google.com/file/d/1v49XUyFHrqUPDDNuuDMX1shjGaUa5ZBo/view?usp=drive_link" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
-</li>-->
-
+</li> -->
 </ul>
 </details>
 
